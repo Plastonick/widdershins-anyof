@@ -198,8 +198,8 @@ func main() {
 |»» alpha|body|string|false|none|
 |»» bravo|body|string|false|none|
 |» *anonymous*|body|object|false|none|
-|»» alpha|body|string|false|none|
 |»» charlie|body|string|false|none|
+|»» delta|body|string|false|none|
 
 <h3 id="post__sample-responses">Responses</h3>
 

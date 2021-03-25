@@ -51,10 +51,10 @@
                                     },
                                     {
                                         "properties": {
-                                            "alpha": {
+                                            "charlie": {
                                                 "type": "string"
                                             },
-                                            "charlie": {
+                                            "delta": {
                                                 "type": "string"
                                             }
                                         }
