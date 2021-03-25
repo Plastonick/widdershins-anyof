@@ -193,7 +193,7 @@ func main() {
 |Name|In|Type|Required|Description|
 |---|---|---|---|---|
 |body|body|object|true|Schema to create a sample|
-|» name|body|string|false|none|
+|» name|body|string|true|none|
 |» *anonymous*|body|object|false|none|
 |»» alpha|body|string|false|none|
 |»» bravo|body|string|false|none|
