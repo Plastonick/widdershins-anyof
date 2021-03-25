@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "widdershins spec/openapi.json -o source/index.html.md markdown"
+  },
+  "dependencies": {
+    "widdershins": "^4.0.1"
+  }
+}
